@@ -146,7 +146,7 @@
          color: var(--pink);
          text-align: center;
          }
-         .grit{
+         .download{
          width: 150px;
          padding: 10px 0 10px 0;
          background-color: var(--black);
@@ -455,4 +455,4 @@
          font-family: Roboto;
          text-align: center;
          display: block;
-         }
+                  }
